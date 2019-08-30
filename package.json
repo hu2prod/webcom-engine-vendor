@@ -1,0 +1,20 @@
+{
+  "name": "webcom-engine-vendor",
+  "version": "1.0.0",
+  "description": "recommended react-like engine vendor for webcom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hu2prod/webcom-engine-vendor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hu2prod/webcom-engine-vendor/issues"
+  },
+  "homepage": "https://github.com/hu2prod/webcom-engine-vendor#readme"
+}
